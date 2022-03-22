@@ -18,6 +18,11 @@
   #user-submit {
     max-width: 100%;
     width: auto;
+    padding: 1rem 1.2rem;
+  }
+
+  #user-email {
+    font-size: 2rem;
   }
 
   .footer-text {
